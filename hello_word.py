@@ -1,7 +1,7 @@
 name = input("Insert your name: ")
 
-if name not "":
+if name != "":
   print("Hello", name)
-else :
-  print("print your name !!")
-  return 0
+else:
+  print("Print your name!!")
+
